@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9B25C108-75AF-E67E-E743-120E45B36CA8}") = "vufario", "Assembly-CSharp.csproj", "{97CF0189-8956-886A-8B5B-55A60DA80904}"
+EndProject
+Project("{9B25C108-75AF-E67E-E743-120E45B36CA8}") = "vufario", "Assembly-CSharp-Editor.csproj", "{CA82B648-3F9C-9F76-8A6E-BA3EC5EC0AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CF0189-8956-886A-8B5B-55A60DA80904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CF0189-8956-886A-8B5B-55A60DA80904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CF0189-8956-886A-8B5B-55A60DA80904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CF0189-8956-886A-8B5B-55A60DA80904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA82B648-3F9C-9F76-8A6E-BA3EC5EC0AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA82B648-3F9C-9F76-8A6E-BA3EC5EC0AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA82B648-3F9C-9F76-8A6E-BA3EC5EC0AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA82B648-3F9C-9F76-8A6E-BA3EC5EC0AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
